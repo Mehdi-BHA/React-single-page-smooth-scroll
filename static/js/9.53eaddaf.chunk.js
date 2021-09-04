@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-single-page-smooth-scroll"]=this["webpackJsonpreact-single-page-smooth-scroll"]||[]).push([[9],{216:function(s,t,e){"use strict";e.r(t);e(0);var c=e(2),o=function(){return Object(c.jsx)("div",{})};t.default=o}}]);
-//# sourceMappingURL=9.53eaddaf.chunk.js.map
