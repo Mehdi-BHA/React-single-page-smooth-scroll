@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Mehdi-BHA.github.io/React-single-page-smooth-scroll",
-  "name": "awesomefolio-pwa",
+  "homepage": "https://mehdi-bha.github.io/React-single-page-smooth-scroll/",
+  "name": "react-single-page-smooth-scroll",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
