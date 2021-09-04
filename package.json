@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mehdi-bha.github.io/React-single-page-smooth-scroll/",
+  "homepage": "https://mehdi-bha.github.io/React-single-page-smooth-scroll",
   "name": "react-single-page-smooth-scroll",
   "version": "0.1.0",
   "private": true,
@@ -39,7 +39,7 @@
     "yup": "^0.32.9"
   },
   "scripts": {
-    "predploy":"npm run build",
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
