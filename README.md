@@ -7,14 +7,14 @@
 <!-- PROJECT PREVIEW -->
 <br />
 <p align="center">
-  <a href="https://github.com/Mehdi-BHA/Awesomefolio">
-    <img src="https://raw.githubusercontent.com/Mehdi-BHA/Awesomefolio/main/screenshots/mokup.jpg" alt="Home section" width="600">
+  <a href="https://github.com/Mehdi-BHA/React-single-page-smooth-scroll">
+    <img src="https://raw.githubusercontent.com/Mehdi-BHA/React-single-page-smooth-scroll/main/screenshots/mokup.jpg" alt="Home section" width="600">
   </a>
 
-  <h1 align="center">Awesomefolio</h3>
+  <h1 align="center">React single page smooth scroll</h3>
 
   <p align="center">
-    An awesome, modern React portfolio
+    A good base for a single page website to start with.
     <br />
     <br />
     <a href="https://mehdibha.codehub.tn">View Demo</a>
@@ -113,13 +113,13 @@ Project Link: [https://github.com/Mehdi-BHA/Awesomefolio](https://github.com/Meh
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Mehdi-BHA/Awesomefolio.svg?style=for-the-badge
-[contributors-url]: https://github.com/Mehdi-BHA/Awesomefolio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Mehdi-BHA/Awesomefolio.svg?style=for-the-badge
-[forks-url]: https://github.com/Mehdi-BHA/Awesomefolio.svg/network/members
-[stars-shield]: https://img.shields.io/github/stars/Mehdi-BHA/Awesomefolio.svg?style=for-the-badge
-[stars-url]: https://github.com/Mehdi-BHA/Awesomefolio.svg/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Mehdi-BHA/Awesomefolio.svg?style=for-the-badge
-[issues-url]: https://github.com/Mehdi-BHA/Awesomefolio.svg/issues
-[license-shield]: https://img.shields.io/github/license/Mehdi-BHA/Awesomefolio.svg?style=for-the-badge
-[license-url]: https://github.com/Mehdi-BHA/Awesomefolio.svg/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Mehdi-BHA/React-single-page-smooth-scroll.svg?style=for-the-badge
+[contributors-url]: https://github.com/Mehdi-BHA/React-single-page-smooth-scroll/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Mehdi-BHA/React-single-page-smooth-scroll.svg?style=for-the-badge
+[forks-url]: https://github.com/Mehdi-BHA/React-single-page-smooth-scroll.svg/network/members
+[stars-shield]: https://img.shields.io/github/stars/Mehdi-BHA/React-single-page-smooth-scroll.svg?style=for-the-badge
+[stars-url]: https://github.com/Mehdi-BHA/React-single-page-smooth-scroll.svg/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Mehdi-BHA/React-single-page-smooth-scroll.svg?style=for-the-badge
+[issues-url]: https://github.com/Mehdi-BHA/React-single-page-smooth-scroll.svg/issues
+[license-shield]: https://img.shields.io/github/license/Mehdi-BHA/React-single-page-smooth-scroll.svg?style=for-the-badge
+[license-url]: https://github.com/Mehdi-BHA/React-single-page-smooth-scroll.svg/blob/master/LICENSE.txt
